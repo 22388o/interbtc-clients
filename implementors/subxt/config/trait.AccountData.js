@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["runtime"] = [{"text":"impl AccountData for <a class=\"enum\" href=\"runtime/metadata/enum.DefaultAccountData.html\" title=\"enum runtime::metadata::DefaultAccountData\">DefaultAccountData</a>","synthetic":false,"types":["runtime::metadata::DefaultAccountData"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

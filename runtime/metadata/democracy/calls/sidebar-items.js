@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["TransactionApi",""],["cancel_proposal",""],["cancel_queued",""],["cancel_referendum",""],["clear_public_proposals",""],["enact_proposal",""],["fast_track",""],["note_imminent_preimage",""],["note_preimage",""],["propose",""],["reap_preimage",""],["remove_vote",""],["second",""],["vote",""]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["TransactionApi",""],["close",""],["disapprove_proposal",""],["execute",""],["propose",""],["set_members",""],["vote",""]]});

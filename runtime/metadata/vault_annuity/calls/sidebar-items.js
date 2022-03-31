@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["TransactionApi",""],["update_rewards",""],["withdraw_rewards",""]]});
